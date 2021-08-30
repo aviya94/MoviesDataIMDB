@@ -1,0 +1,9 @@
+D:\Users\orme\Documents\MoviesDataFromIMDB\MoviesDataFromIMDB\MoviesDataFromIMDB\bin\Debug\MoviesDataFromIMDB.exe.config
+D:\Users\orme\Documents\MoviesDataFromIMDB\MoviesDataFromIMDB\MoviesDataFromIMDB\obj\Debug\MoviesDataFromIMDB.csprojResolveAssemblyReference.cache
+D:\Users\orme\Documents\MoviesDataFromIMDB\MoviesDataFromIMDB\MoviesDataFromIMDB\obj\Debug\MoviesDataFromIMDB.MovieSearch.resources
+D:\Users\orme\Documents\MoviesDataFromIMDB\MoviesDataFromIMDB\MoviesDataFromIMDB\obj\Debug\MoviesDataFromIMDB.Properties.Resources.resources
+D:\Users\orme\Documents\MoviesDataFromIMDB\MoviesDataFromIMDB\MoviesDataFromIMDB\obj\Debug\MoviesDataFromIMDB.csproj.GenerateResource.Cache
+D:\Users\orme\Documents\MoviesDataFromIMDB\MoviesDataFromIMDB\MoviesDataFromIMDB\bin\Debug\MoviesDataFromIMDB.exe
+D:\Users\orme\Documents\MoviesDataFromIMDB\MoviesDataFromIMDB\MoviesDataFromIMDB\bin\Debug\MoviesDataFromIMDB.pdb
+D:\Users\orme\Documents\MoviesDataFromIMDB\MoviesDataFromIMDB\MoviesDataFromIMDB\obj\Debug\MoviesDataFromIMDB.exe
+D:\Users\orme\Documents\MoviesDataFromIMDB\MoviesDataFromIMDB\MoviesDataFromIMDB\obj\Debug\MoviesDataFromIMDB.pdb
